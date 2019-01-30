@@ -1,4 +1,4 @@
-# Intro to `virtualenv` for data science 
+# Intro to virtualenv for data science 
  
 ### James Meadow 
 
