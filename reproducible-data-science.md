@@ -1,8 +1,8 @@
 
-# Quick-Start: Reproducible Data Science Environments 
+# Quick-Start: Reproducible Data Science Environment 
  
 ### James Meadow 
-### 1/31/2019 
+### 2/8/2019 
 
 -----------------
 
@@ -109,7 +109,6 @@ And we're off! If the flow above was executed correctly, and the requirements we
 From here, your normal data science, notebook, version-controlled, etc. workflow can be carried out without the normal hangups. 
 
 Finally, when you are finished with this environment, simply `deactivate` it. No, really. You literally type `deactivate` and you are back in your previous environment. 
-
 
 
 
