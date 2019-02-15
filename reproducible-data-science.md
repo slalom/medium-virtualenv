@@ -1,11 +1,12 @@
 
-# Quick-Start: Reproducible Data Science Environment 
+# Reproducible Data Science Environment with virtualenv
  
 ### James Meadow 
 ### 2/8/2019 
 
 -----------------
 
+## DEPR: 2/14/19 This has now been added and edited on Medium. No more changes will be captured in this version. https://medium.com/@james.meadow/reproducible-data-science-environment-with-virtualenv-29a663018a72
 
 
 One of the simplest (and most important!) habits we can develop as collaborative, successful data scientists is creating and working in isolated and reproducible environments. 
